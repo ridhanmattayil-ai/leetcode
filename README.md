@@ -12,5 +12,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1795-rearrange-products-table](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
