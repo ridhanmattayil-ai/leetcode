@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1280-students-and-examinations](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1280-students-and-examinations) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/ridhanmattayil-ai/leetcode/tree/master/1795-rearrange-products-table) |
