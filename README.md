@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
