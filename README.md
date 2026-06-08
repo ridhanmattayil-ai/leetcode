@@ -64,18 +64,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0112-path-sum) |
 ## Two Pointers
 |  |
