@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -189,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
