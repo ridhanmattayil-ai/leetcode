@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
