@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0367-valid-perfect-square) |
 ## Memoization
 |  |
