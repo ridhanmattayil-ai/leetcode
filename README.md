@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
