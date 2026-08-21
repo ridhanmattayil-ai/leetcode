@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0463-island-perimeter) |
+| [0500-keyboard-row](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0344-reverse-string) |
+| [0500-keyboard-row](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0796-rotate-string) |
