@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0500-keyboard-row) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
 |  |
