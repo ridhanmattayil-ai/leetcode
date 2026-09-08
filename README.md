@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0509-fibonacci-number) |
+| [3870-count-commas-in-range](https://github.com/ridhanmattayil-ai/leetcode/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
 | ------- |
