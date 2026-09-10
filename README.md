@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0500-keyboard-row) |
+| [0989-add-to-array-form-of-integer](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0999-available-captures-for-rook](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0999-available-captures-for-rook) |
 | [3903-smallest-stable-index-i](https://github.com/ridhanmattayil-ai/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3870-count-commas-in-range](https://github.com/ridhanmattayil-ai/leetcode/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
