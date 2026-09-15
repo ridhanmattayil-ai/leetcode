@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3870-count-commas-in-range](https://github.com/ridhanmattayil-ai/leetcode/tree/master/3870-count-commas-in-range) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0709-to-lower-case) |
@@ -269,5 +271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0999-available-captures-for-rook](https://github.com/ridhanmattayil-ai/leetcode/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
